@@ -6,7 +6,7 @@ This repository is dedicated to showcasing my solution to the coding challenge f
 
 Bellow are some high-level requirments for this challenge;
 
-- Connect to any exchange rates API (Sample - Exchange Rates API) to get exchange rates of Australia to New Zealand for the past 30 days into JSON output format.
+- Connect to any exchange rates API to get exchange rates of Australia to New Zealand for the past 30 days into JSON output format.
 - Pre-process the data to manage any expected issues.
 - Perform some data analysis.
 - Find the best and worst exchange rates for that time period.
