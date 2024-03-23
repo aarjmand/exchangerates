@@ -1,4 +1,4 @@
-# exchangerates
+# ExchangeRates
 
 # Challenge
 
