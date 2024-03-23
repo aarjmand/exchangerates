@@ -1,0 +1,1738 @@
+[
+  {
+    "date": "2024-02-22",
+    "currency": "NZD",
+    "rate": 1.058803,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-22",
+    "currency": "USD",
+    "rate": 0.6559,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-22",
+    "currency": "GBP",
+    "rate": 0.517958,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-22",
+    "currency": "EUR",
+    "rate": 0.605901,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-22",
+    "currency": "COP",
+    "rate": 2576.788416,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-22",
+    "currency": "ARS",
+    "rate": 549.87125,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-22",
+    "currency": "DOP",
+    "rate": 38.566427,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-23",
+    "currency": "NZD",
+    "rate": 1.05777,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-23",
+    "currency": "USD",
+    "rate": 0.6555,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-23",
+    "currency": "GBP",
+    "rate": 0.516997,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-23",
+    "currency": "EUR",
+    "rate": 0.605059,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-23",
+    "currency": "COP",
+    "rate": 2597.956018,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-23",
+    "currency": "ARS",
+    "rate": 548.980186,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-23",
+    "currency": "DOP",
+    "rate": 38.545944,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-24",
+    "currency": "NZD",
+    "rate": 1.05777,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-24",
+    "currency": "USD",
+    "rate": 0.6555,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-24",
+    "currency": "GBP",
+    "rate": 0.516997,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-24",
+    "currency": "EUR",
+    "rate": 0.605059,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-24",
+    "currency": "COP",
+    "rate": 2572.942362,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-24",
+    "currency": "ARS",
+    "rate": 548.980186,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-24",
+    "currency": "DOP",
+    "rate": 38.483741,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-25",
+    "currency": "NZD",
+    "rate": 1.061216,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-25",
+    "currency": "USD",
+    "rate": 0.656504,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-25",
+    "currency": "GBP",
+    "rate": 0.51807,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-25",
+    "currency": "EUR",
+    "rate": 0.60677,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-25",
+    "currency": "COP",
+    "rate": 2576.883178,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-25",
+    "currency": "ARS",
+    "rate": 550.677289,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-25",
+    "currency": "DOP",
+    "rate": 38.542684,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-26",
+    "currency": "NZD",
+    "rate": 1.060552,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-26",
+    "currency": "USD",
+    "rate": 0.653915,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-26",
+    "currency": "GBP",
+    "rate": 0.515448,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-26",
+    "currency": "EUR",
+    "rate": 0.602655,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-26",
+    "currency": "COP",
+    "rate": 2590.458112,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-26",
+    "currency": "ARS",
+    "rate": 549.71619,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-26",
+    "currency": "DOP",
+    "rate": 38.453503,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-27",
+    "currency": "NZD",
+    "rate": 1.060605,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-27",
+    "currency": "USD",
+    "rate": 0.654365,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-27",
+    "currency": "GBP",
+    "rate": 0.516022,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-27",
+    "currency": "EUR",
+    "rate": 0.603456,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-27",
+    "currency": "COP",
+    "rate": 2572.77341,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-27",
+    "currency": "ARS",
+    "rate": 550.393718,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-27",
+    "currency": "DOP",
+    "rate": 38.427574,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-28",
+    "currency": "NZD",
+    "rate": 1.065386,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-28",
+    "currency": "USD",
+    "rate": 0.6494,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-28",
+    "currency": "GBP",
+    "rate": 0.512954,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-28",
+    "currency": "EUR",
+    "rate": 0.599192,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-28",
+    "currency": "COP",
+    "rate": 2548.855794,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-28",
+    "currency": "ARS",
+    "rate": 546.61476,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-28",
+    "currency": "DOP",
+    "rate": 38.030812,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-29",
+    "currency": "NZD",
+    "rate": 1.067854,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-29",
+    "currency": "USD",
+    "rate": 0.649815,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-29",
+    "currency": "GBP",
+    "rate": 0.514705,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-29",
+    "currency": "EUR",
+    "rate": 0.601433,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-29",
+    "currency": "COP",
+    "rate": 2552.395338,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-29",
+    "currency": "ARS",
+    "rate": 547.374223,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-02-29",
+    "currency": "DOP",
+    "rate": 38.176727,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-01",
+    "currency": "NZD",
+    "rate": 1.070239,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-01",
+    "currency": "USD",
+    "rate": 0.653488,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-01",
+    "currency": "GBP",
+    "rate": 0.516305,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-01",
+    "currency": "EUR",
+    "rate": 0.602257,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-01",
+    "currency": "COP",
+    "rate": 2575.820222,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-01",
+    "currency": "ARS",
+    "rate": 550.203382,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-01",
+    "currency": "DOP",
+    "rate": 38.362274,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-02",
+    "currency": "NZD",
+    "rate": 1.070239,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-02",
+    "currency": "USD",
+    "rate": 0.653488,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-02",
+    "currency": "GBP",
+    "rate": 0.516305,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-02",
+    "currency": "EUR",
+    "rate": 0.602257,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-02",
+    "currency": "COP",
+    "rate": 2557.17856,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-02",
+    "currency": "ARS",
+    "rate": 550.203382,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-02",
+    "currency": "DOP",
+    "rate": 38.247806,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-03",
+    "currency": "NZD",
+    "rate": 1.069518,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-03",
+    "currency": "USD",
+    "rate": 0.652754,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-03",
+    "currency": "GBP",
+    "rate": 0.515613,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-03",
+    "currency": "EUR",
+    "rate": 0.602048,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-03",
+    "currency": "COP",
+    "rate": 2554.308277,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-03",
+    "currency": "ARS",
+    "rate": 550.206754,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-03",
+    "currency": "DOP",
+    "rate": 38.204875,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-04",
+    "currency": "NZD",
+    "rate": 1.067457,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-04",
+    "currency": "USD",
+    "rate": 0.650726,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-04",
+    "currency": "GBP",
+    "rate": 0.51274,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-04",
+    "currency": "EUR",
+    "rate": 0.599491,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-04",
+    "currency": "COP",
+    "rate": 2567.348519,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-04",
+    "currency": "ARS",
+    "rate": 549.385573,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-04",
+    "currency": "DOP",
+    "rate": 38.198963,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-05",
+    "currency": "NZD",
+    "rate": 1.068352,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-05",
+    "currency": "USD",
+    "rate": 0.650435,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-05",
+    "currency": "GBP",
+    "rate": 0.511974,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-05",
+    "currency": "EUR",
+    "rate": 0.599158,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-05",
+    "currency": "COP",
+    "rate": 2565.790454,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-05",
+    "currency": "ARS",
+    "rate": 549.906788,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-05",
+    "currency": "DOP",
+    "rate": 38.274109,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-06",
+    "currency": "NZD",
+    "rate": 1.071607,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-06",
+    "currency": "USD",
+    "rate": 0.6566,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-06",
+    "currency": "GBP",
+    "rate": 0.515592,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-06",
+    "currency": "EUR",
+    "rate": 0.60244,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-06",
+    "currency": "COP",
+    "rate": 2576.288283,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-06",
+    "currency": "ARS",
+    "rate": 555.240487,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-06",
+    "currency": "DOP",
+    "rate": 38.58819,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-07",
+    "currency": "NZD",
+    "rate": 1.071665,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-07",
+    "currency": "USD",
+    "rate": 0.6621,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-07",
+    "currency": "GBP",
+    "rate": 0.516704,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-07",
+    "currency": "EUR",
+    "rate": 0.604666,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-07",
+    "currency": "COP",
+    "rate": 2592.624691,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-07",
+    "currency": "ARS",
+    "rate": 560.29703,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-07",
+    "currency": "DOP",
+    "rate": 38.864545,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-08",
+    "currency": "NZD",
+    "rate": 1.075928,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-08",
+    "currency": "USD",
+    "rate": 0.664385,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-08",
+    "currency": "GBP",
+    "rate": 0.51683,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-08",
+    "currency": "EUR",
+    "rate": 0.607052,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-08",
+    "currency": "COP",
+    "rate": 2593.720816,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-08",
+    "currency": "ARS",
+    "rate": 562.666316,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-08",
+    "currency": "DOP",
+    "rate": 38.982841,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-09",
+    "currency": "NZD",
+    "rate": 1.075928,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-09",
+    "currency": "USD",
+    "rate": 0.664385,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-09",
+    "currency": "GBP",
+    "rate": 0.51671,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-09",
+    "currency": "EUR",
+    "rate": 0.607052,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-09",
+    "currency": "COP",
+    "rate": 2598.784648,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-09",
+    "currency": "ARS",
+    "rate": 561.671149,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-09",
+    "currency": "DOP",
+    "rate": 39.126841,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-10",
+    "currency": "NZD",
+    "rate": 1.072039,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-10",
+    "currency": "USD",
+    "rate": 0.662396,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-10",
+    "currency": "GBP",
+    "rate": 0.515295,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-10",
+    "currency": "EUR",
+    "rate": 0.605334,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-10",
+    "currency": "COP",
+    "rate": 2591.004436,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-10",
+    "currency": "ARS",
+    "rate": 560.122676,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-10",
+    "currency": "DOP",
+    "rate": 39.009704,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-11",
+    "currency": "NZD",
+    "rate": 1.072116,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-11",
+    "currency": "USD",
+    "rate": 0.66152,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-11",
+    "currency": "GBP",
+    "rate": 0.51603,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-11",
+    "currency": "EUR",
+    "rate": 0.605182,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-11",
+    "currency": "COP",
+    "rate": 2585.882186,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-11",
+    "currency": "ARS",
+    "rate": 561.126754,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-11",
+    "currency": "DOP",
+    "rate": 39.093042,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-12",
+    "currency": "NZD",
+    "rate": 1.074481,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-12",
+    "currency": "USD",
+    "rate": 0.660725,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-12",
+    "currency": "GBP",
+    "rate": 0.51638,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-12",
+    "currency": "EUR",
+    "rate": 0.604646,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-12",
+    "currency": "COP",
+    "rate": 2578.723777,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-12",
+    "currency": "ARS",
+    "rate": 559.637732,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-12",
+    "currency": "DOP",
+    "rate": 39.050508,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-13",
+    "currency": "NZD",
+    "rate": 1.075092,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-13",
+    "currency": "USD",
+    "rate": 0.662735,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-13",
+    "currency": "GBP",
+    "rate": 0.517699,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-13",
+    "currency": "EUR",
+    "rate": 0.605044,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-13",
+    "currency": "COP",
+    "rate": 2586.654701,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-13",
+    "currency": "ARS",
+    "rate": 563.153936,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-13",
+    "currency": "DOP",
+    "rate": 39.217328,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-14",
+    "currency": "NZD",
+    "rate": 1.074288,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-14",
+    "currency": "USD",
+    "rate": 0.65792,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-14",
+    "currency": "GBP",
+    "rate": 0.516207,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-14",
+    "currency": "EUR",
+    "rate": 0.604533,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-14",
+    "currency": "COP",
+    "rate": 2563.881343,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-14",
+    "currency": "ARS",
+    "rate": 559.429875,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-14",
+    "currency": "DOP",
+    "rate": 38.961551,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-15",
+    "currency": "NZD",
+    "rate": 1.078546,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-15",
+    "currency": "USD",
+    "rate": 0.656295,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-15",
+    "currency": "GBP",
+    "rate": 0.515429,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-15",
+    "currency": "EUR",
+    "rate": 0.602184,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-15",
+    "currency": "COP",
+    "rate": 2548.066722,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-15",
+    "currency": "ARS",
+    "rate": 558.071676,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-15",
+    "currency": "DOP",
+    "rate": 38.869119,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-16",
+    "currency": "NZD",
+    "rate": 1.078546,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-16",
+    "currency": "USD",
+    "rate": 0.656295,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-16",
+    "currency": "GBP",
+    "rate": 0.51551,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-16",
+    "currency": "EUR",
+    "rate": 0.602184,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-16",
+    "currency": "COP",
+    "rate": 2555.818591,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-16",
+    "currency": "ARS",
+    "rate": 558.071676,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-16",
+    "currency": "DOP",
+    "rate": 38.839572,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-17",
+    "currency": "NZD",
+    "rate": 1.077407,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-17",
+    "currency": "USD",
+    "rate": 0.655768,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-17",
+    "currency": "GBP",
+    "rate": 0.515099,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-17",
+    "currency": "EUR",
+    "rate": 0.602598,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-17",
+    "currency": "COP",
+    "rate": 2553.647097,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-17",
+    "currency": "ARS",
+    "rate": 558.158406,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-17",
+    "currency": "DOP",
+    "rate": 38.806573,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-18",
+    "currency": "NZD",
+    "rate": 1.078031,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-18",
+    "currency": "USD",
+    "rate": 0.655665,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-18",
+    "currency": "GBP",
+    "rate": 0.515192,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-18",
+    "currency": "EUR",
+    "rate": 0.602996,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-18",
+    "currency": "COP",
+    "rate": 2550.294247,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-18",
+    "currency": "ARS",
+    "rate": 558.790486,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-18",
+    "currency": "DOP",
+    "rate": 38.885621,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-19",
+    "currency": "NZD",
+    "rate": 1.078973,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-19",
+    "currency": "USD",
+    "rate": 0.65261,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-19",
+    "currency": "GBP",
+    "rate": 0.513115,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-19",
+    "currency": "EUR",
+    "rate": 0.600763,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-19",
+    "currency": "COP",
+    "rate": 2529.307519,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-19",
+    "currency": "ARS",
+    "rate": 556.844603,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-19",
+    "currency": "DOP",
+    "rate": 38.569314,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-20",
+    "currency": "NZD",
+    "rate": 1.083493,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-20",
+    "currency": "USD",
+    "rate": 0.659745,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-20",
+    "currency": "GBP",
+    "rate": 0.515511,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-20",
+    "currency": "EUR",
+    "rate": 0.603228,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-20",
+    "currency": "COP",
+    "rate": 2560.213037,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-20",
+    "currency": "ARS",
+    "rate": 562.922277,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-20",
+    "currency": "DOP",
+    "rate": 39.0586,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-21",
+    "currency": "NZD",
+    "rate": 1.087031,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-21",
+    "currency": "USD",
+    "rate": 0.657202,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-21",
+    "currency": "GBP",
+    "rate": 0.519094,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-21",
+    "currency": "EUR",
+    "rate": 0.60505,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-21",
+    "currency": "COP",
+    "rate": 2556.252666,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-21",
+    "currency": "ARS",
+    "rate": 561.41477,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-21",
+    "currency": "DOP",
+    "rate": 38.871008,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-22",
+    "currency": "NZD",
+    "rate": 1.08671,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-22",
+    "currency": "USD",
+    "rate": 0.651591,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-22",
+    "currency": "GBP",
+    "rate": 0.517095,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-22",
+    "currency": "EUR",
+    "rate": 0.599793,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-22",
+    "currency": "COP",
+    "rate": 2535.341968,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-22",
+    "currency": "ARS",
+    "rate": 554.059085,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-22",
+    "currency": "DOP",
+    "rate": 38.672203,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-23",
+    "currency": "NZD",
+    "rate": 1.08671,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-23",
+    "currency": "USD",
+    "rate": 0.651591,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-23",
+    "currency": "GBP",
+    "rate": 0.517095,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-23",
+    "currency": "EUR",
+    "rate": 0.599793,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-23",
+    "currency": "COP",
+    "rate": 2531.397485,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-23",
+    "currency": "ARS",
+    "rate": 554.059085,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  },
+  {
+    "date": "2024-03-23",
+    "currency": "DOP",
+    "rate": 38.329609,
+    "source_file": "raw_rates_2024-03-23 23:28:59.799000.json",
+    "extract_time": 1711196939.878,
+    "current": 1
+  }
+]
