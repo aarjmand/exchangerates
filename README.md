@@ -25,22 +25,26 @@ exchangerates/
 |   └── logging.conf
 |
 |── data/
-|   ├── landing/
-|   │   └── rates.json
-|   └── raw/
-|       └── output_file2.csv
+|   ├── curated/
+|   |   └── summary_rates.json
+|   │── raw/
+|   │   ├── raw_rates_2024-03-23 23_28_59.799000.json
+|   |   └── raw_rates_2024-03-23 23_29_45.542000.json
+│   └── structured/
+|       └── structured_rates.json
 |
 |── docs/
-|    └── solution.md
+|    └── architecture.md
 |
 |── logs/
-|    └── exchangerates.log
+|   └── exchangerates.log
 |
 |── notebooks/
 |   │── src/
-|   │   └── analytics.ipynb
-|   │   └── helpers.ipynb
-|   │   └── main.ipynb
+|   │   │── analytics.ipynb
+|   │   │── helpers.ipynb
+|   │   │── main.ipynb
+|   │   └── pipeline.ipynb
 |   └── tests/
 |       └── test_module2.py
 |       └── test_module2.py
