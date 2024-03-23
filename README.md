@@ -12,11 +12,11 @@ Below are the key requirments for this coding challenge;
 - Find the best and worst exchange rates for that time period.
 - Calculate the average exchange rate for the month.
 
-#### Docs
+### Docs
 
 All documents can be found in the [docs](https://github.com/aarjmand/exchangerates/tree/main/docs) folder. 
 
-#### Project Structure
+### Project Structure
 
 ```bash
 exchangerates/
