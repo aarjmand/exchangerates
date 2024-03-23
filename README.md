@@ -14,32 +14,34 @@
 
 
 https://github.com/aarjmand/exchangerates/tree/main/docs
-
+```bash
 exchangerates/
 ├── conf/
 │   ├── config.ini
 |   └── logging.conf
 |
-|── docs/
-|    ├── README.md
-|    ├── documentation_file1.md
-|    └── documentation_file2.md
-|    
-├── notebooks/
-│   │── src/
-│   │   └── main
-│   │   └── test_module2.py
-│   │   └── test_module2.py
-│   └── tests/
-│       └── test_module2.py
-│       └── test_module2.py
+|── data/
+|   ├── landing/
+|   │   └── rates.json
+|   └── raw/
+|       └── output_file2.csv
 |
-└── data/
-    ├── input/
-    │   ├── data_file1.csv
-    │   └── data_file2.csv
-    └── output/
-        └── results/
-            ├── output_file1.csv
-            └── output_file2.csv
-
+|── docs/
+|    └── solution.md
+|
+|── logs/
+|    └── exchangerates.log
+|
+|── notebooks/
+|   │── src/
+|   │   └── analytics.ipynb
+|   │   └── helpers.ipynb
+|   │   └── main.ipynb
+|   └── tests/
+|       └── test_module2.py
+|       └── test_module2.py
+|
+├── LICENSE
+└── README.md
+ 
+```
