@@ -14,7 +14,7 @@ Below are the key requirments for this coding challenge;
 
 ### Docs
 
-All documents can be found in the [docs](https://github.com/aarjmand/exchangerates/tree/main/docs) folder. 
+Information regarding the application's architecture can be explored [here](https://github.com/aarjmand/exchangerates/tree/main/docs/architecture.md). 
 
 ### Project Structure
 
