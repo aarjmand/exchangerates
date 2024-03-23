@@ -27,9 +27,11 @@ exchangerates/
 |── data/
 |   ├── curated/
 |   |   └── summary_rates.json
+|   |
 |   │── raw/
 |   │   ├── raw_rates_2024-03-23 23_28_59.799000.json
 |   |   └── raw_rates_2024-03-23 23_29_45.542000.json
+|   |
 │   └── structured/
 |       └── structured_rates.json
 |
@@ -45,6 +47,7 @@ exchangerates/
 |   │   │── helpers.ipynb
 |   │   │── main.ipynb
 |   │   └── pipeline.ipynb
+|   |
 |   └── tests/
 |       └── test_module2.py
 |       └── test_module2.py
