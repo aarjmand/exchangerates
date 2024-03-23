@@ -4,7 +4,7 @@ As part of Bupa's recruitment process, candidates are tasked with a Python codin
 
 This repository is dedicated to showcasing my solution to the coding challenge for the recruitment team at Bupa.
 
-Bellow are some high-level requirments for this challenge;
+Below are the key requirments for this coding challenge;
 
 - Connect to any exchange rates API to get exchange rates of Australia to New Zealand for the past 30 days into JSON output format.
 - Pre-process the data to manage any expected issues.
