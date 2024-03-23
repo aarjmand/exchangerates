@@ -1,6 +1,10 @@
 # ExchangeRates
 
-# Challenge
+As part of Bupa's recruitment process, candidates are tasked with a Python coding challenge. The challenge involves retrieving exchange rate data between Australia and New Zealand from the past 30 days using any available exchange rates API and performing comprehensive analysis on the dataset.
+
+This repository is dedicated to showcasing my solution to the coding challenge for the recruitment team at Bupa.
+
+Bellow are some high-level requirments for this challenge;
 
 - Connect to any exchange rates API (Sample - Exchange Rates API) to get exchange rates of Australia to New Zealand for the past 30 days into JSON output format.
 - Pre-process the data to manage any expected issues.
@@ -8,12 +12,12 @@
 - Find the best and worst exchange rates for that time period.
 - Calculate the average exchange rate for the month.
 
-# Solution
+## Docs
 
-- Connect to any exchange rates API (Sample - Exchange Rates API) to get exchange rates of Australia to New Zealand for the past 30 days into JSON output format.
+All documents can be found in the [docs](https://github.com/aarjmand/exchangerates/tree/main/docs) folder. 
 
+## Project Structure
 
-https://github.com/aarjmand/exchangerates/tree/main/docs
 ```bash
 exchangerates/
 ├── conf/
