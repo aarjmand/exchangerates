@@ -14,11 +14,14 @@ In the code, I establish a connection to the API endpoint and retrieve the most 
 
 With each API call, a new JSON file is generated following the naming convention `raw_rates_{current_timestamp}.json`, where `{current_timestamp}` represents the timestamp of the current data extraction. This approach ensures that each dataset is uniquely identified and timestamped, facilitating traceability and versioning within the data pipeline.
 
-
 ![Raw json file](./img/raw.png)
 
 
 #### Structured Layer
+In the implemented code, the latest JSON file residing in the raw layer is read to extract the exchange rates data. Subsequently, this data undergoes a series of transformations, including cleaning and de-duplication as required. 
+
+To enhance traceability, two metadata columns, namely "source_file" and "extract_time," are appended to the dataset, facilitating the tracking of data sources and extraction times. Utilizing a Slowly Changing Dimension (SCD2) approach, an additional column "current" is introduced to delineate the current records.
+
 ![Structured json file](./img/structured.png)
 
 
