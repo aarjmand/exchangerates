@@ -13,13 +13,14 @@ Additionally, the application incorporates a basic medallion architecture patter
 #### Getting Started
 The application has been developed using [JupyterLite](https://jupyter.org/try), with all source and test files stored in ```.ipynb``` format. To utilize the application, it is necessary to clone this repository into Jupyter or any other compatible platform.
 
-Please ensure that all folders, except for the ```docs``` folder, are present in your environment for the application to function properly.
+Please ensure that all folders, except for the ```docs``` folder, are present in your environment for the application to function properly. You can access the comprehensive folder structure of the application in the [Appendix](#appendix) section of this document.
 
-Once the setup is complete, navigate to the ```main.ipynb``` notebook and execute it. This process retrieves data from the API, organizes it into different layers, and generates a statistical table and two charts.
+Once the setup is complete, navigate to the ```main.ipynb``` notebook and execute it. This process retrieves data from the API, organizes it into ```Raw```, ```Structured``` & ```Curated``` layers, and generates a statistical table and two charts.
 
 The statistical table and one of the charts offer interactive features, allowing users to select specific currencies for filtering purposes.
-
 
 #### Using the Application
 
 #### Troubleshooting
+
+#### Appendix
