@@ -2,8 +2,8 @@
 
 #### Introduction
 
-### Getting Started
+#### Getting Started
 
-### Using the Application
+#### Using the Application
 
-### Troubleshooting
+#### Troubleshooting
