@@ -18,7 +18,7 @@ With each API call, a new JSON file is generated following the naming convention
 
 
 #### Structured Layer
-In the implemented code, the latest JSON file residing in the raw layer is read to extract the exchange rates data. Subsequently, this data undergoes a series of transformations, including cleaning and de-duplication as required. 
+In the implemented code, the latest JSON file residing in the Raw layer is read to extract the exchange rates data. Subsequently, this data undergoes a series of transformations, including cleaning and de-duplication as required and are stored in the Structured layer with schema enforced on the dataset to ensure data quality.
 
 To enhance traceability, two metadata columns, namely `source_file` and `extract_time` are appended to the dataset, facilitating the tracking of data sources and extraction times. Utilizing a Slowly Changing Dimension (SCD2) approach, an additional column `current` is introduced to delineate the current records.
 
@@ -26,4 +26,8 @@ To enhance traceability, two metadata columns, namely `source_file` and `extract
 
 
 #### Curated Layer
+Finally the Curated layer is built upon the Structured layer. This layer represents a refined version of the data where aggregations and further refinements are applied to tailor it for specific use cases.  
+
+Typically, the data from this layer is served to Business Intelligence (BI) systems for in-depth analysis and reporting purposes.
+
 ![Curated json file](./img/curated.png)
