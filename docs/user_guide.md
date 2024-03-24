@@ -34,9 +34,11 @@ The statistical table and one of the charts offer interactive features, allowing
 
 #### Configuration Settings
 
-The application does not accept user-supplied parameters directly. However, users can configure specific attributes by editing the ```config.ini``` file provided with the application. This file contains some default values as can be seen in the table bellow, but for a more comprehensive description and allowd list of values for each attribute consult the [Appendix](#appendix) section of this document.
+The application does not directly accept user-supplied parameters. However, users have the option to customize specific attributes by editing the provided config.ini file. 
 
-```python
+While this file includes default values, a comprehensive description and a list of allowed values for each attribute can be found in the Appendix section of this document. Below are the default values provided with this application.
+
+```
 [arguments]
 endpoint=https://api.exchangeratesapi.io/v1/timeseries
 access_key=26e5547f91c8fd04634605e604ce5835
