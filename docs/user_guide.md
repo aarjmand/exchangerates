@@ -74,6 +74,14 @@ Users can modify these settings in the ```conf/logging.conf``` file.
 ### Appendix
 
 #### Config.ini
+| Key | Description | Default Value | Allowed Values |
+|----------|----------|----------|----------|
+| endpoint | Row 1, Col 2 | https://api.exchangeratesapi.io/v1/timeseries |x|
+| access_key | Row 2, Col 2 | 26e5547f91c8fd04634605e604ce5835 |x|
+| date_threshold | Row 3, Col 2 | 30 |x|
+| base_currency | Row 3, Col 2 | AUD |x|
+| symbols | Row 3, Col 2 | NZD,USD,GBP,EUR,COP,ARS,DOP |x|
+
 
 #### Folder Structure
 ```
