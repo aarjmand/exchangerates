@@ -24,7 +24,7 @@ Here you can find the links to some useful documentations retaled to this projec
 
 ### Project Structure
 
-```bash
+```
 exchangerates/
 ├── conf/
 │   ├── config.ini
