@@ -9,5 +9,7 @@ Additionally, I'll provide documentation for manual testing scenarios that can b
 ### Automated Unit Tests
 
 As mentioned above there some unit tests available for the ```helpers.ipynb``` module. They can be found in the ```/tests/``` folder and you can run them by clicking on the ```Run``` button from the menu at the top.
+
 ![Image](./img/unit-test-1.png)
+
 ![Image](./img/unit-test-2.png)
