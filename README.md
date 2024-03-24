@@ -45,7 +45,7 @@ exchangerates/
 |── docs/
 |    ├── architecture.md
 |    ├── user_guide.md
-|    └── unit_tests.md
+|    └── test_cases.md
 |
 |── logs/
 |   └── exchangerates.log
