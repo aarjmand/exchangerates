@@ -7,8 +7,11 @@
   - [Environment Setup](#environment-setup)
   - [Configuration Settings](#configuration-settings)
 - [Using the Application](#using-the-application)
-- [Troubleshooting](#troubleshooting)
+- [Error Handeling](#error-handeling)
 - [Appendix](#appendix)
+  - [Config.ini](#config.ini)
+  - [Currency Codes](#currency-codes)
+  - [Folder Structure](#folder-structure)
 
 ### Introduction
 
@@ -74,6 +77,7 @@ Users can modify these settings in the ```conf/logging.conf``` file.
 ### Appendix
 
 #### Config.ini
+
 | Key | Description | Default Value | Allowed Values |
 |----------|----------|----------|----------|
 |endpoint | URL to api's endpoint | https://api.exchangeratesapi.io/v1/timeseries |N/A|
