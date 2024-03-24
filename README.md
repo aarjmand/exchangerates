@@ -36,13 +36,16 @@ exchangerates/
 |   |
 |   │── raw/
 |   │   ├── raw_rates_2024-03-23 23_28_59.799000.json
-|   |   └── raw_rates_2024-03-23 23_29_45.542000.json
+|   │   ├── raw_rates_2024-03-23 23_29_45.542000.json
+|   |   └── ...
 |   |
 │   └── structured/
 |       └── structured_rates.json
 |
 |── docs/
-|    └── architecture.md
+|    ├── architecture.md
+|    ├── user_guide.md
+|    └── unit_tests.md
 |
 |── logs/
 |   └── exchangerates.log
