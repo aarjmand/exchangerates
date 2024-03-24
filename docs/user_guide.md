@@ -79,8 +79,10 @@ Users can modify these settings in the ```conf/logging.conf``` file.
 | endpoint | URL to api's endpoint | https://api.exchangeratesapi.io/v1/timeseries |N/A|
 | access_key | Key to authenticate with the api | 26e5547f91c8fd04634605e604ce5835 |N/A|
 | date_threshold | Number of days we can go back | 30 |0 >= x <=365|
-| base_currency | Base currency | AUD |Consult the list of currency codes below|
-| symbols | Comma seperated list of currencies to compare against the base currency | NZD,USD,GBP,EUR,COP,ARS,DOP |Consult the list of currency codes below|
+| base_currency | A single currency code | AUD |Consult list of [currencies](#currency-codes) below|
+| symbols | Comma seperated list of currencies to compare against the base currency | NZD,USD,GBP,EUR,COP,ARS,DOP |Consult list of [currencies](#currency-codes) below|
+
+#### Curreny Codes
 
 
 #### Folder Structure
