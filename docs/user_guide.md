@@ -65,6 +65,12 @@ Additionally, it will generate a summary exchange chart for each currency, displ
 
 ### Error Handling
 
+Error handling is implemented using ```try: except:``` blocks, and all logs are written to two distinct locations.
+
+The application utilizes a logger with two handlers: one writes to the console, and the other to a log file. By default, the log level for the console handler is set to ```WARNING```, while for the file handler, it is set to ```DEBUG```.
+
+Users can modify these settings in the ```conf/logging.conf``` file.
+
 ### Appendix
 
 #### Config.ini
