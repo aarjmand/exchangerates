@@ -1,18 +1,5 @@
 # User's Guide
 
-### Table of Contents
-
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Environment Setup](#environment-setup)
-  - [Configuration Settings](#configuration-settings)
-- [Using the Application](#using-the-application)
-- [Error Handeling](#error-handeling)
-- [Appendix](#appendix)
-  - [Config.ini](#config.ini)
-  - [Currency Codes](#currency-codes)
-  - [Folder Structure](#folder-structure)
-
 ### Introduction
 
 This application was developed as part of a technical interview process during a recruitment drive. It serves as a comprehensive tool for curating exchange rates data from various API endpoints and delivering it to users for analytical purposes. The primary objectives of the development process were to fulfill the following requirements:
