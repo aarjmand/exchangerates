@@ -57,6 +57,8 @@ Upon data availability, it generates a summary table and a chart displaying exch
 
 Additionally, it will generate a summary exchange chart for each currency, displaying the mean, best, and worst exchange rates on a bar chart.
 
+![Charts](./img/results.png)
+
 ### Error Handling
 
 ### Appendix
