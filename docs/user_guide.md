@@ -66,7 +66,7 @@ Additionally, it will generate a summary exchange chart for each currency, displ
 
 ![Image](./img/statistics.png)
 
-### Error Handling
+### Error Handeling
 
 Error handling is implemented using ```try: except:``` blocks, and all logs are written to two distinct locations.
 
