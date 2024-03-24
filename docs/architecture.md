@@ -8,6 +8,8 @@ Here is a high-level architectural diagram illustrating the data flow journey, s
 ![Target Architecture](./img/architecture-diagram.png)
 
 #### Raw Layer
+In the code, I establish a connection to the API endpoint and retrieve the most recent data in JSON format. Upon obtaining the data, I augment it with two metadata attributes: `extract_time`, indicating the timestamp of the data extraction, and `source
+
 ![Raw json file](./img/raw.png)
 
 
