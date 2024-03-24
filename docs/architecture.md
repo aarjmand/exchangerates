@@ -6,3 +6,6 @@ Here is a high-level architectural diagram illustrating the data flow journey, s
 
 ### Target State Architecture
 ![Target Architecture](./img/architecture-diagram.png)
+
+#### Raw
+![Raw json file](./img/raw.png)
