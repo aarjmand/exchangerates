@@ -4,4 +4,5 @@ In addressing the requirements outlined in this challenge, I've opted to employ 
 
 Here is a high-level architectural diagram illustrating the data flow journey, starting from API ingestion, progressing through the Raw, Structured, and ultimately Curated layers, before finally serving the data to downstream ML and Data Science teams.
 
+### Target State Architecture
 ![Target Architecture](architecture-diagram.png)
