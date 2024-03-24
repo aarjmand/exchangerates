@@ -31,3 +31,6 @@ Finally the Curated layer is built upon the Structured layer. This layer represe
 Typically, the data from this layer is served to Business Intelligence (BI) systems for in-depth analysis and reporting purposes.
 
 ![Curated json file](./img/curated.png)
+
+#### Orchestration
+For this challenge, a straightforward orchestration mechanism has been devised. It revolves around batch ingestion, facilitated by a sequence of function calls. These functions seamlessly fetch data from the API endpoint and transition it through the Raw, Structured, and ultimately Curated layers.
