@@ -18,7 +18,9 @@ Here you can find the links to some useful documentations retaled to this projec
 
 [Application's Architecture](https://github.com/aarjmand/exchangerates/tree/main/docs/architecture.md)
 
-[User's Guide](https://github.com/aarjmand/exchangerates/tree/main/docs/guide.md)
+[How to Run](https://github.com/aarjmand/exchangerates/tree/main/docs/guide.md)
+
+[Unit Tests](https://github.com/aarjmand/exchangerates/tree/main/docs/unit-tests.md)
 
 ### Project Structure
 
