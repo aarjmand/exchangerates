@@ -55,8 +55,7 @@ exchangerates/
 |   │   └── pipeline.ipynb
 |   |
 |   └── tests/
-|       └── test_module2.py
-|       └── test_module2.py
+|       └── test_helpers.py
 |
 ├── LICENSE
 └── README.md
