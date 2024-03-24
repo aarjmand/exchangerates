@@ -11,3 +11,7 @@ As mentioned above there some unit tests available for the ```helpers.ipynb``` m
 ![Image](./img/unit-test-1.png)
 
 ![Image](./img/unit-test-2.png)
+
+### Manual Testing Scenarios
+
+To be completed!
