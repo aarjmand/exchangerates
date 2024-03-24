@@ -36,7 +36,7 @@ The statistical table and one of the charts offer interactive features, allowing
 
 The application does not directly accept user-supplied parameters. However, users have the option to customize specific attributes by editing the provided config.ini file. 
 
-While this file includes default values, a comprehensive description and a list of allowed values for each attribute can be found in the Appendix section of this document. Below are the default values provided with this application.
+While this file includes default values, a comprehensive description and a list of allowed values for each attribute can be found in the [Appendix](#appendix) section of this document. Below are the default values provided with this application.
 
 ```
 [arguments]
@@ -47,14 +47,23 @@ base_currency=AUD
 symbols=NZD,USD,GBP,EUR,COP,ARS,DOP
 ```
 
-
-
 ### Using the Application
+
+Once the app setup is complete, navigate to the ```main.ipynb``` notebook and select ```Restart the Kernel and run all cells``` from the quick menu items.
+
+This will initiate the kernel and execute all cells sequentially. Initially, the notebook installs some prerequisite Python packages, imports necessary modules, and then runs the pipeline to populate data into Raw, Structued & Curated layers.
+
+Upon data availability, it generates a summary table and a chart displaying exchange rates over time. Both the table and the chart are interactive, allowing users to filter the data using widgets on the screen.
+
+Additionally, it will generate a summary exchange chart for each currency, displaying the mean, best, and worst exchange rates on a bar chart.
 
 ### Error Handling
 
 ### Appendix
 
+#### Config.ini
+
+#### Folder Structure
 ```
 exchangerates/
 ├── conf/
