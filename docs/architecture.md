@@ -7,5 +7,13 @@ Here is a high-level architectural diagram illustrating the data flow journey, s
 ### Target State Architecture
 ![Target Architecture](./img/architecture-diagram.png)
 
-#### Raw
+#### Raw Layer
 ![Raw json file](./img/raw.png)
+
+
+#### Structured Layer
+![Structured json file](./img/structured.png)
+
+
+#### Curated Layer
+![Curated json file](./img/curated.png)
