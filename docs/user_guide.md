@@ -1,5 +1,10 @@
 ### User's Guide
 
+### Table of Contents
+
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
+
 #### Introduction
 
 This application was developed as part of a technical interview process during a recruitment drive. It serves as a comprehensive tool for curating exchange rates data from various API endpoints and delivering it to users for analytical purposes. The primary objectives of the development process were to fulfill the following requirements:
