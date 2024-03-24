@@ -1,4 +1,4 @@
-### User's Guid
+### User's Guide
 
 #### Introduction
 
@@ -11,6 +11,8 @@ This application was developed as part of a technical interview process during a
 Additionally, the application incorporates a basic medallion architecture pattern and pipeline structure to enhance its coherence and efficiency.
 
 #### Getting Started
+
+##### Environment Setup
 The application has been developed using [JupyterLite](https://jupyter.org/try), with all source and test files stored in ```.ipynb``` format. To utilize the application, it is necessary to clone this repository into Jupyter or any other compatible platform.
 
 Please ensure that all folders, except for the ```docs``` folder, are present in your environment for the application to function properly. You can access the comprehensive folder structure of the application in the [Appendix](#appendix) section of this document.
@@ -18,6 +20,9 @@ Please ensure that all folders, except for the ```docs``` folder, are present in
 Once the setup is complete, navigate to the ```main.ipynb``` notebook and execute it. This process retrieves data from the API, organizes it into ```Raw```, ```Structured``` & ```Curated``` layers, and generates a statistical table and two charts.
 
 The statistical table and one of the charts offer interactive features, allowing users to select specific currencies for filtering purposes.
+
+##### Configuration Settings
+This is where I put config settigns
 
 #### Using the Application
 
