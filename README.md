@@ -17,6 +17,7 @@ Below are the key requirments for this coding challenge;
 Here you can find the links to some useful documentations retaled to this project.
 
 [Application's Architecture](https://github.com/aarjmand/exchangerates/tree/main/docs/architecture.md)
+[User's Guide](https://github.com/aarjmand/exchangerates/tree/main/docs/guide.md)
 
 ### Project Structure
 
