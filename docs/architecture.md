@@ -8,6 +8,8 @@ Here is a high-level architectural diagram illustrating the data flow journey, s
 ![Target Architecture](./img/architecture-diagram.png)
 
 #### Raw Layer
+The Raw layer serves as a repository for storing data in its original format with minimal alterations. This ensures the accurate preservation of data lineage, enabling us to reconstruct higher layers in the event of a major failure.
+
 In the code, I establish a connection to the API endpoint and retrieve the most recent data in JSON format. Upon obtaining the data, I augment it with two metadata attributes: `extract_time`, indicating the timestamp of the data extraction, and `source`, denoting the origin of the data, before writing this enriched JSON object into the raw layer. 
 
 With each API call, a new JSON file is generated following the naming convention `raw_rates_{current_timestamp}.json`, where `{current_timestamp}` represents the timestamp of the current data extraction. This approach ensures that each dataset is uniquely identified and timestamped, facilitating traceability and versioning within the data pipeline.
