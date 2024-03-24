@@ -1,9 +1,12 @@
-### User's Guide
+# User's Guide
 
 ### Table of Contents
 
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+  - [Environment Setup](#environment-setup)
+  - [Configuration Settings](#configuration-settings)
+- [Using the Application](#using-the-application)
 
 #### Introduction
 
