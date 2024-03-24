@@ -51,13 +51,17 @@ symbols=NZD,USD,GBP,EUR,COP,ARS,DOP
 
 Once the app setup is complete, navigate to the ```main.ipynb``` notebook and select ```Restart the Kernel and run all cells``` from the quick menu items.
 
+![Image](./img/running-app.png)
+
 This will initiate the kernel and execute all cells sequentially. Initially, the notebook installs some prerequisite Python packages, imports necessary modules, and then runs the pipeline to populate data into Raw, Structued & Curated layers.
 
 Upon data availability, it generates a summary table and a chart displaying exchange rates over time. Both the table and the chart are interactive, allowing users to filter the data using widgets on the screen.
 
+![Image](./img/results.png)
+
 Additionally, it will generate a summary exchange chart for each currency, displaying the mean, best, and worst exchange rates on a bar chart.
 
-![Charts](./img/results.png)
+![Image](./img/statistics.png)
 
 ### Error Handling
 
