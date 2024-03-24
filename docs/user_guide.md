@@ -53,6 +53,14 @@ Additionally, it will generate a summary exchange chart for each currency, displ
 
 ![Image](./img/statistics.png)
 
+#### Updating Configuration or Getting New Sets of Data
+
+If you have updated the ```config.ini``` file (e.g. to change your base currency from AUD to USD), you will need to rerun the code block below to load the config into memory. This is also true, if you just want to obtain a new set of data from the api.
+
+The api will serve new sets of exchange rates data every 10 minutee.
+
+![Image](./img/pipeline-run.png)
+
 ### Error Handeling
 
 Error handling is implemented using ```try: except:``` blocks, and all logs are written to two distinct locations.
@@ -63,7 +71,7 @@ Users can modify these settings in the ```conf/logging.conf``` file.
 
 ### Appendix
 
-#### Config.ini
+#### Config.ini - Default & Allowed Values
 
 | Key | Description | Default Value | Allowed Values |
 |----------|----------|----------|----------|
@@ -79,6 +87,7 @@ You can access a full list of all valid currency codes in [IBAN](https://www.iba
 
 
 #### Folder Structure
+
 ```
 exchangerates/
 ├── conf/
@@ -91,13 +100,16 @@ exchangerates/
 |   |
 |   │── raw/
 |   │   ├── raw_rates_2024-03-23 23_28_59.799000.json
-|   |   └── raw_rates_2024-03-23 23_29_45.542000.json
+|   │   ├── raw_rates_2024-03-23 23_29_45.542000.json
+|   |   └── ...
 |   |
 │   └── structured/
 |       └── structured_rates.json
 |
 |── docs/
-|    └── architecture.md
+|    ├── architecture.md
+|    ├── user_guide.md
+|    └── unit_tests.md
 |
 |── logs/
 |   └── exchangerates.log
@@ -110,9 +122,9 @@ exchangerates/
 |   │   └── pipeline.ipynb
 |   |
 |   └── tests/
-|       └── test_module2.py
-|       └── test_module2.py
+|       └── test_helpers.py
 |
 ├── LICENSE
-└── README.md 
+└── README.md
+ 
 ```
