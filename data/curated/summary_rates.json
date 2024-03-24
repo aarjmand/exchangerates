@@ -1,44 +1,30 @@
 [
   {
     "currency": "ARS",
+    "base": "AUD",
     "mean_rate": 555.1048935484,
     "worst_rate": 546.61476,
     "best_rate": 563.153936
   },
   {
     "currency": "COP",
+    "base": "AUD",
     "mean_rate": 2567.6581571935,
     "worst_rate": 2529.307519,
     "best_rate": 2598.784648
   },
   {
     "currency": "DOP",
+    "base": "AUD",
     "mean_rate": 38.6552131613,
     "worst_rate": 38.030812,
     "best_rate": 39.217328
   },
   {
     "currency": "EUR",
+    "base": "AUD",
     "mean_rate": 0.6032023871,
     "worst_rate": 0.599158,
     "best_rate": 0.607052
-  },
-  {
-    "currency": "GBP",
-    "mean_rate": 0.5158927419,
-    "worst_rate": 0.511974,
-    "best_rate": 0.519094
-  },
-  {
-    "currency": "NZD",
-    "mean_rate": 1.072075871,
-    "worst_rate": 1.05777,
-    "best_rate": 1.087031
-  },
-  {
-    "currency": "USD",
-    "mean_rate": 0.6561715484,
-    "worst_rate": 0.6494,
-    "best_rate": 0.664385
   }
 ]
