@@ -24,3 +24,41 @@ The statistical table and one of the charts offer interactive features, allowing
 #### Troubleshooting
 
 #### Appendix
+
+```
+exchangerates/
+├── conf/
+│   ├── config.ini
+|   └── logging.conf
+|
+|── data/
+|   ├── curated/
+|   |   └── summary_rates.json
+|   |
+|   │── raw/
+|   │   ├── raw_rates_2024-03-23 23_28_59.799000.json
+|   |   └── raw_rates_2024-03-23 23_29_45.542000.json
+|   |
+│   └── structured/
+|       └── structured_rates.json
+|
+|── docs/
+|    └── architecture.md
+|
+|── logs/
+|   └── exchangerates.log
+|
+|── notebooks/
+|   │── src/
+|   │   │── analytics.ipynb
+|   │   │── helpers.ipynb
+|   │   │── main.ipynb
+|   │   └── pipeline.ipynb
+|   |
+|   └── tests/
+|       └── test_module2.py
+|       └── test_module2.py
+|
+├── LICENSE
+└── README.md 
+```
