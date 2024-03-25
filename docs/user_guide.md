@@ -89,10 +89,10 @@ rebuild=true
 |----------|----------|----------|----------|
 |endpoint | URL to API's endpoint | https://api.exchangeratesapi.io/v1/timeseries |N/A|
 |access_key | Key to authenticate with the API | 26e5547f91c8fd04634605e604ce5835 |N/A|
-|date_threshold | Number of days we can go back | 30 |0 >= x <=365|
+|date_threshold | Number of days in the past that the API should return results for | 30 |0 >= x <=365|
 |base_currency | A single currency code | AUD |Consult list of [currencies](#currency-codes) below|
-|symbols | Comma seperated list of currencies | NZD,USD,GBP,EUR,COP,ARS,DOP |Consult list of [currencies](#currency-codes) below|
-|rebuild | If set to true will rebuild the Structured & Curated layers from Raw layers, assuming Raw layer | false |true/false|
+|symbols | Comma seperated list of currencies. These are the currencies we are getting the exchange rates for against our base currecy | NZD,USD,GBP,EUR,COP,ARS,DOP |Consult list of [currencies](#currency-codes) below|
+|rebuild | If set to true will rebuild the Structured & Curated layers from Raw layers, assuming Raw layer is intact | false |true/false|
 
 #### Currency Codes
 
