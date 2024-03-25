@@ -58,7 +58,7 @@ Additionally, it will generate a summary exchange chart for each currency, displ
 
 If you have updated the ```config.ini``` file (e.g. to change your base currency from AUD to USD), you will need to rerun the code block below to load the config into memory. This is also true, if you just want to obtain a new set of data from the API.
 
-The API will serve new sets of exchange rates data every 10 minutee.
+The API will serve new sets of exchange rates data every 10 minutes.
 
 ![Image](./img/pipeline-run.png)
 
