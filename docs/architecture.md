@@ -20,7 +20,7 @@ With each API call, a new JSON file is generated following the naming convention
 #### Structured Layer
 In the implemented code, the latest JSON file residing in the Raw layer is read to extract the exchange rates data. Subsequently, this data undergoes a series of transformations, including cleaning and de-duplication as required and are stored in the Structured layer with schema enforced on the dataset to ensure data quality.
 
-To enhance traceability, two metadata columns, namely `source_file` and `extract_time` are appended to the dataset, facilitating the tracking of data sources and extraction times. Utilizing a Slowly Changing Dimension (SCD2) approach, an additional column `current` is introduced to delineate the current records.
+To enhance traceability, two metadata columns, namely `source_file` and `extract_time`, facilitating the tracking of data sources and extraction times. Utilizing a Slowly Changing Dimension (SCD2) approach, an additional column `current` is introduced to delineate the current records.
 
 ![Structured json file](./img/structured.png)
 
