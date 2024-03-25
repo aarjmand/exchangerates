@@ -35,6 +35,7 @@ access_key=26e5547f91c8fd04634605e604ce5835
 date_threshold=30
 base_currency=AUD
 symbols=NZD,USD,GBP,EUR,COP,ARS,DOP
+rebuild=false
 ```
 
 ### Using the Application
@@ -80,6 +81,7 @@ Users can modify these settings in the ```conf/logging.conf``` file.
 |date_threshold | Number of days we can go back | 30 |0 >= x <=365|
 |base_currency | A single currency code | AUD |Consult list of [currencies](#currency-codes) below|
 |symbols | Comma seperated list of currencies | NZD,USD,GBP,EUR,COP,ARS,DOP |Consult list of [currencies](#currency-codes) below|
+|rebuild | If set to true will rebuild the Structured & Curated layers from Raw layers, assuming Raw layer | false |true/false|
 
 #### Currency Codes
 
