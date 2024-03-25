@@ -72,12 +72,14 @@ Users can modify these settings in the ```conf/logging.conf``` file.
 
 ### Rebuilding Structured & Curated Layers
 
-In case of a catastrophe affecting data integrity or loss within the Structured or Curated layers, recovery is possible by reconstructing these layers using the Raw layer's contents, provided the Raw layer remains unaffected. To do so, change the value of the ```rebuild``` attribute in ```config.ini``` file to ```true```
+In case of a catastrophe affecting data integrity or loss within the Structured or Curated layers, recovery is possible by reconstructing these layers using the Raw layer's contents, provided the Raw layer remains unaffected. To do so, change the value of the ```rebuild``` attribute in ```config.ini``` file to ```true``` and run the ```main``` code bock again.
 
 ```bash
 [arguments]
 rebuild=true
 ```
+
+![Image](./img/pipeline-run.png)
 
 ### Appendix
 
