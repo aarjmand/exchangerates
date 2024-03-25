@@ -34,3 +34,6 @@ Typically, the data from this layer is served to Business Intelligence (BI) syst
 
 #### Orchestration
 For this challenge, a straightforward orchestration mechanism has been devised. It revolves around batch ingestion, facilitated by a sequence of function calls. These functions seamlessly fetch data from the API endpoint and transition it through the Raw, Structured, and ultimately Curated layers.
+
+#### Disaster Recovery
+In case of a catastrophe affecting data integrity or loss within the Structured or Curated layers, recovery is possible by reconstructing these layers using the Raw layer's contents, provided the Raw layer remains unaffected.
