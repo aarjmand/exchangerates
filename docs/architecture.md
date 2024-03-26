@@ -9,9 +9,10 @@ Here is a high-level architectural diagram illustrating the data flow journey, s
 Given the tight deadline and other commitments, I opted for a simplified approach in developing this solution. While I would have preferred to implement a more robust solution given more time, I'd like to highlight some considerations I took into account during the development process:
 
 - The code includes an actual ```API``` call using an active access key, which expires in ```25 days```.
-- In the interest of time and simplicity, an active decision was made not to implement a metadata-driven approach for ingestion as initially planned.
-- In the structured layer, I took a crude ```SCD2``` approach, incorporating only a ```current``` column without the ```from``` and ```to``` columns as intended.
+- In the interest of time, a conscious decision was made not to implement a metadata-driven approach for ingestion as initially planned.
+- In structured layer, I took a crude ```SCD2``` approach, incorporating only a ```current``` column without the ```from``` and ```to``` columns as intended.
 - In favor of simplicity, I've decided to save all files in ```.json``` format instead of converting them to ```.parquet```.
+- Time permitting, my plan is to extend the unit-case coverage to as much as the code as possible. Currently I have implemented only a few test cases.
 
 Despite these limitations, I believe the solution effectively addresses the core requirements.
 
