@@ -2,7 +2,7 @@
 
 In addressing the requirements outlined in this challenge, I've opted to employ a medallion architecture approach. Although the current solution is a preliminary rendition of this framework, featuring Raw, Structured, and Curated layers, it provides a structured methodology for managing data organization, transformation, and utilization. This approach prioritizes incremental improvements, adaptability, and governance, facilitating the exploration of advanced analytics and machine learning applications.
 
-Here is a high-level architectural diagram illustrating the data flow journey, starting from API ingestion, progressing through the Raw, Structured, and ultimately Curated layers, before finally serving the data to downstream ML and Data Science teams.
+In the [Target State Architecrure](#target-state-architecture) section of this document you can find a high-level architectural diagram illustrating the data flow journey, starting from API ingestion, progressing through the Raw, Structured, and ultimately Curated layers, before finally serving the data to downstream ML and Data Science teams.
 
 ### Considerations
 
@@ -11,7 +11,7 @@ Given the tight deadline and other commitments, I opted for a simplified approac
 - The code includes an actual ```API``` call using an active access key, which expires on ```Saturday 20 April, 2024```.
 - In the interest of time, a conscious decision was made not to implement a metadata-driven approach for ingestion as initially planned.
 - In structured layer, I took a crude ```SCD2``` approach, incorporating only a ```current``` column without the ```from``` and ```to``` columns as intended.
-- In favor of simplicity, I've decided to save all files in ```.json``` format instead of converting them to ```.parquet```.
+- In favor of simplicity, I've decided to save all files in ```.json``` format instead of converting them to ```.parquet``` in Structured and Curated layers.
 - Time permitting, my plan is to extend the unit-case coverage to as much as the code as possible. Currently I have implemented only a few test cases.
 
 Despite these limitations, I believe the solution effectively addresses the core requirements.
