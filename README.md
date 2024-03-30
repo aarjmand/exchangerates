@@ -1,8 +1,8 @@
 # ExchangeRates
 
-As part of Bupa's recruitment process, candidates are tasked with a Python coding challenge. The challenge involves retrieving exchange rate data between Australia and New Zealand from the past 30 days using any available exchange rates API and performing comprehensive analysis on the dataset.
+As part of the recruitment process, candidates are tasked with a Python coding challenge. The challenge involves retrieving exchange rate data between Australia and New Zealand from the past 30 days using any available exchange rates API and performing comprehensive analysis on the dataset.
 
-This repository is dedicated to showcasing my solution to the coding challenge for the recruitment team at Bupa.
+This repository is dedicated to showcasing my solution to the coding challenge for the recruitment team.
 
 Below are the key requirments for this coding challenge;
 
